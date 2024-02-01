@@ -1,7 +1,7 @@
 # A-Path-Finding
 This repository contains an A* pathfinding algorithm implementation. The A* algorithm is a popular algorithm for finding the shortest path between two points on a graph. It is often used in video games, robotics, and other applications where efficient pathfinding is required.
 
-![Uploading A Path finder.gif…]()
+![A Path finder](https://github.com/KZV027/A-Path-Finding/assets/94216170/bc36a320-b0c7-4cde-91b9-7006d1b8be6d)
 
 
 ## 1. Imports and Setup:
