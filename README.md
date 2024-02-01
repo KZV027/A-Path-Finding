@@ -1,6 +1,9 @@
 # A-Path-Finding
 This repository contains an A* pathfinding algorithm implementation. The A* algorithm is a popular algorithm for finding the shortest path between two points on a graph. It is often used in video games, robotics, and other applications where efficient pathfinding is required.
 
+![Uploading A Path finder.gif…]()
+
+
 ## 1. Imports and Setup:
 Imports: The code imports the pygame library for graphics, math for calculations, and PriorityQueue for implementing the A* algorithm.
 Window Setup: It creates a window titled "A* Path Finding Algorithm" with a width of 800 pixels.
